@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 My name is SAlma heree!
 try
+=======
+My name is huzaifi
+
+>>>>>>> 67c568ddc55813be4b983d337f23a55f12295561
